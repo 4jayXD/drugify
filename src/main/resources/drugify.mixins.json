@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.drugify.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "drugify.refmap.json",
+  "mixins": [
+    "world.item.ItemMixin",
+    "world.entity.LivingEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

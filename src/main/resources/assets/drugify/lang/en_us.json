@@ -1,0 +1,19 @@
+{
+  "drugify.tooltip.quality": "Quality: ",
+  "drugify.tooltip.quality.trash": "Trash",
+  "drugify.tooltip.quality.standard": "Standard",
+  "drugify.tooltip.quality.good": "Good.",
+  "drugify.tooltip.quality.amazing": "Amazing!!!",
+  
+  "drugify.tooltip.drug": "Drug: ",
+  "drugify.tooltip.drug.list": "・",
+  "drugify.tooltip.drugs": "Drugs: ",
+  
+  "drugify.tooltip.drug_additives": "Additives: ",
+  "drugify.tooltip.drug_additive": "Additive: ",
+  "drugify.tooltip.drug_additive.list": "・",
+  
+  "drugify.drug.enderine": "Enderine",
+  
+  "drugify.drug_additive.hydrophobia": "Hydrophobia"
+}
